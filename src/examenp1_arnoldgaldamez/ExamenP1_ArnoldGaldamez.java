@@ -4,17 +4,17 @@
  */
 package examenp1_arnoldgaldamez;
 
+import java.util.Scanner;
+
 /**
  *
  * @author USER
  */
 public class ExamenP1_ArnoldGaldamez {
 
-    /**
-     * @param args the command line arguments
-     */
+    public static Scanner leer = new Scanner(System.in);
     public static void main(String[] args) {
-        // TODO code application logic here
+
     }
     
 }
